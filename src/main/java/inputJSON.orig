@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"FirstPort":100,"LastPort":130,"isUdpSearch":false}
+=======
+{"StartIndex":100,"FinishIndex":130,"isUdpSearch":false}
+>>>>>>> PortScaner/master
